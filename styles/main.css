@@ -1,0 +1,7 @@
+* {
+	font-family: "Chalkboard SE", cursive;
+}
+body {
+	text-align: center;
+	background: url("assets/bgTile.png");
+}
